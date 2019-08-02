@@ -13,10 +13,6 @@ body {
 }
 /* End Body */
 
-/* Start Music */
-
-/* End Music */
-
 /* Start Debug */
 .bg-violet {
     background-color: violet;
@@ -40,7 +36,7 @@ body {
 }
 /* End Container */
 
-/* Start Log */
+/* Start Logo */
 .logo {
     text-align: center;
 }
@@ -70,7 +66,7 @@ a:active {
 }
 
 .menu-primer ul {
-    background-color: #333333;
+    background-color: #ff69b4;
     text-align: center;
     border-radius: 4px;
     box-shadow: 
@@ -87,7 +83,7 @@ a:active {
 } 
 
 .menu-primer a{
-    color: #ffffff;
+    color: #000000;
     font-size: 13px;
     display: inline-block;
     letter-spacing: 1px;
@@ -184,7 +180,7 @@ h6 {
 
 /* Start Box */
 .box-heading {
-    background-color: #f6f8fa;
+    background-color: #ffb6c1;
     border: 1px solid #d1d5da;
     border-radius: 3px 3px 0 0;
     margin: 0;
@@ -221,9 +217,10 @@ h6 {
     width: 100%;
 }
 .layanan-table th {
-    background-color: #f6f8fa;
+    background-color: #db7093;
 }
 .layanan-table td {
+    background-color: #ffc0cb;
     text-align: center;
 }
 /* End Layanan Table */
